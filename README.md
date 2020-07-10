@@ -1,16 +1,7 @@
-### Hi there 👋
-[! [HitCount] (http://hits.dwyl.com/data-crat/ {project} .svg)] (http://hits.dwyl.com/data-crat/ {project})
-<!--
-**data-crat/data-crat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there visitor 👋
+[![HitCount](http://hits.dwyl.com/data-crat/{project}.svg)](http://hits.dwyl.com/data-crat/{project})
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on programming only with my left hand.
+- 🌱 I’m currently Learning- Microsoft Azure, AWS, SQL, Time Series Analysis
+- ⚡ Fun fact: NOT jokes are NOT funny. NOT.
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently Learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
